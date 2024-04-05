@@ -7,26 +7,43 @@ In this project, we conducted Exploratory Data Analysis (EDA) using Python with 
 The steps done are importing the data, data cleaning and exploratory data analysis.  
 
 **Key Findings**:
+
 1. There are 11251 rows and 15 columns in the dataset.
+
 2. The name of the columns, its data types have been identified.
+
 3. In the data cleaning part the following steps have been done:
+
    • removing null values 
+
    • converted data types of columns
-4. Checked if there are missing values present in the dataset.
-5. In the exploratory data analysis, the following are the key findings:
+
+5. Checked if there are missing values present in the dataset.
+
+6. In the exploratory data analysis, the following are the key findings:
+
    • We can see that most of the buyers are females and even the purchasing power of females are greater than men.
+
    • Most of the buyers are of age group between 26-35 yrs female.
+
    • Most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively.
+
    • Most of the buyers are married (women) and they have high purchasing power.
+
    • Most of the buyers are working in IT, Healthcare and Aviation sector.
+
    •  Most of the sold products are from Food, Clothing and Electronics category.
 
  **Conlcusion** : Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
 
 **Project Learnings**
+
 • Performed Data Cleaning and Data Manipulation.
+
 • Performed Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, Seaborn Libraries.
+
 • Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups.
+
 • Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
    
 
